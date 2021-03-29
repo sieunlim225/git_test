@@ -13,4 +13,6 @@ public class Test2 {
 
 	//this is branch1 work4
 
+	//브랜치를 합치기위한 작업1
+	//브랜치를 합치기위한 작업1
 }

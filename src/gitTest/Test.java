@@ -5,6 +5,5 @@ public class Test {
 		String a = "hello";
 
 		//this is branch1 work
-		//utf89999
 	}
 }
