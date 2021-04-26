@@ -1,5 +1,5 @@
 package gitTest;
 
 public class Test2 {
-	//гого
+	//utf9999999999999999999999
 }
