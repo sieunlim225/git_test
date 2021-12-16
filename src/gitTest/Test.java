@@ -12,5 +12,6 @@ public class Test {
 		//helloooooooooooooooooooo master
 		//this will be conflicted
 		//hhheeelloo22
+		//branch1 work
 	}
 }
