@@ -13,5 +13,6 @@ public class Test {
 		//this will be conflicted
 		//hhheeelloo22
 		//branch1 work
+		//branch will be affected
 	}
 }
